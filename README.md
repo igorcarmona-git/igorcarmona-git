@@ -5,4 +5,7 @@
 - 📫 Encontre-me: E-mail --> igorcarmona1@hotmail.com | LinkedIn --> /in/igorcarmonawork
 - 😄 
 
-
+<div>
+  <a href="https://github.com/igorcarmona-git">
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcarmona-git&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)"
+</div>
