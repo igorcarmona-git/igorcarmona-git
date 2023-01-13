@@ -4,7 +4,7 @@
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas (ADS) pela UNIPAR - CIANORTE.
 - 🧔 Sou brasileiro, paranaense e tenho 22 anos de idade.
-- 😃 A procura do meu primeiro emprego na área de Tecnologia.
+- 😃 Estou a procura do meu primeiro emprego na área de Tecnologia.
 - 🌱 Atualmente estou estudando: Desenvolvimento Web pela RocketSeat e Python3 pela Udemy com Otávio Miranda.
 - 📫 Encontre-me: E-mail --> igorcarmona1@hotmail.com | LinkedIn --> /in/igorcarmonawork
 
