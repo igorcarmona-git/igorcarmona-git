@@ -19,7 +19,7 @@
 #
 
 ## 👨‍🎓 Soft skills:
-Metodologias ágeis | Hacking/Security | English (Avançado)
+Metodologias ágeis | Hacking/Security | English (Avançado) | Git & GitHub
 #
 
 ## 💻 Operation Systems (OS):
