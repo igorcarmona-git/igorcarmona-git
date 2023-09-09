@@ -2,9 +2,9 @@
 
 ## 👋 Olá! Eu sou o Igor Carmona.
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas (ADS) pela UNIPAR - CIANORTE.
-- 🧔 Sou brasileiro, paranaense e tenho 22 anos de idade.
-- 🌱 Atualmente estou estudando: Desenvolvimento Web pela RocketSeat e Python3 pela Udemy com Otávio Miranda.
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas (ADS) pela UNIPAR - CIANORTE (4/6).
+- 🧔 Sou brasileiro, Paranaense e tenho 23 anos de idade.
+- 🌱 Atualmente estou estudando: Python3 pela Udemy com Otávio Miranda.
 - 📫 Encontre-me: E-mail --> igorcarmona1@hotmail.com | LinkedIn --> /in/igorcarmonawork
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=20&center=true&vCenter=true&width=1000&lines="Uma+pessoa+que+nunca+cometeu+um+erro,+nunca+fez+nada+de+novo"+--Albert+Einstein;"Você+só+vence+o+amanhã+se+não+desistir+hoje";"A+persistência+é+o+caminho+do+êxito"+--Charles+Chaplin;"Você+é+o+seu+único+limite";"Comece+onde+você+está.+Use+o+que+você+tem.+Faça+o+que+você+pode"+--Arthur+Ashe;"A+energia+que+você+ESPALHA+é+a+mesma+que+você+RECEBE!";"Seja+quem+você+deseja+ter+por+perto")](https://git.io/typing-svg)
@@ -18,7 +18,7 @@
 #
 
 ## 👨‍🎓 Soft skills:
-Metodologias ágeis | Hacking/Security | English (Avançado) | Git & GitHub
+Metodologias ágeis | English (Avançado) | Git & GitHub | 
 #
 
 ## 💻 Operation Systems (OS):
