@@ -1,24 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 
-## 👋 Olá! Eu sou o Igor Carmona.
+## 👋 Hello! I'm Igor Carmona.
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas (ADS) pela UNIPAR - CIANORTE (4/6).
-- 🧔 Sou brasileiro, Paranaense e tenho 23 anos de idade.
-- 🌱 Atualmente estou estudando: Python3 pela Udemy com Otávio Miranda.
-- 📫 Encontre-me: E-mail --> igorcarmona1@hotmail.com | LinkedIn --> /in/igorcarmonawork
+- 🔭 Student of System Analysis and Development (ADS) for UNIPAR - CIANORTE (4/6).
+- 🧔 I'm brazilian and 23 years old.
+- 🌱 Now-days I study: Python3 for Udemy with Otávio Miranda.
+- 📫 Find me: E-mail --> igorcarmona1@hotmail.com | LinkedIn --> /in/igorcarmonawork
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=20&center=true&vCenter=true&width=1000&lines="Uma+pessoa+que+nunca+cometeu+um+erro,+nunca+fez+nada+de+novo"+--Albert+Einstein;"Você+só+vence+o+amanhã+se+não+desistir+hoje";"A+persistência+é+o+caminho+do+êxito"+--Charles+Chaplin;"Você+é+o+seu+único+limite";"Comece+onde+você+está.+Use+o+que+você+tem.+Faça+o+que+você+pode"+--Arthur+Ashe;"A+energia+que+você+ESPALHA+é+a+mesma+que+você+RECEBE!";"Seja+quem+você+deseja+ter+por+perto")](https://git.io/typing-svg)
 
 ## 🎓 Main skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-A9A9A9?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-A9A9A9?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-A9A9A9?style=for-the-badge&logo=css3&logoColor=black)
-![Python](https://img.shields.io/badge/Python-A9A9A9?style=for-the-badge&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-A9A9A9?style=for-the-badge&logo=c&logoColor=black)
+Python | C | HTML | CSS | Tailwind | Java | SQL |
 #
 
 ## 👨‍🎓 Soft skills:
-Metodologias ágeis | English (Avançado) | Git & GitHub | 
+English (Avançado) | Git & GitHub | Hacking - Pentest (studying)
 #
 
 ## 💻 Operation Systems (OS):
