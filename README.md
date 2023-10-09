@@ -14,7 +14,7 @@ Python | C | HTML | CSS | Tailwind | Java | SQL |
 #
 
 ## 👨‍🎓 Soft skills:
-English (Avançado) | Git & GitHub | Hacking - Pentest (studying)
+English (Advanced but not fluid, but I can do it well) | Git & GitHub | Hacking - Pentest (studying)
 #
 
 ## 💻 Operation Systems (OS):
