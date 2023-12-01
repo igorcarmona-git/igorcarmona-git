@@ -24,7 +24,7 @@ English (Advanced but not fluid, but I can do it well) | Git & GitHub | Hacking 
 #
 
 ## 💻 Operating Systems (OS):
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Ubuntu-A9A9A9?style=for-the-badge&logo=ubuntu&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali_Linux-A9A9A9?style=for-the-badge&logo=kali-linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-A9A9A9?style=for-the-badge&logo=windows&logoColor=black"/>
