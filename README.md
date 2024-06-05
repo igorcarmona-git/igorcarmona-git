@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=20&center=true&vCenter=true&width=1000&lines="A+person+who+never+made+a+mistake+never+tried+anything+new"+--Albert+Einstein;"You+only+win+tomorrow+if+you+don't+give+up+today";"Persistence+is+the+path+to+success"+--Charles+Chaplin;"You+are+your+only+limit";"Start+where+you+are.+Use+what+you+have.+Do+what+you+can"+--Arthur+Ashe;"The+energy+you+spread+is+the+same+you+receive!";"Be+who+you+want+to+have+around")](https://git.io/typing-svg)
 
 ## 🎓 Main Skills:
-Python | C | HTML | CSS | Tailwind | Java | SQL
+JavaScript| Python | C | HTML | CSS | Tailwind | Java | SQL
 
 #
 
