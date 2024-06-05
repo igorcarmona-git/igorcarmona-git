@@ -6,7 +6,7 @@
 # 👋 Hey, I'm Igor Carmona!
 
 - 🚀 System Analysis and Development student at UNIPAR - CIANORTE (4/6).
-- 🧔 23 years old Brazilian.
+- 🧔 24 years old Brazilian.
 - 🌱 Currently learning Python3 with Otávio Miranda on Udemy.
 - 📫 Connect with me: E-mail --> igorcarmona1@hotmail.com | LinkedIn --> /in/igorcarmonawork
 
