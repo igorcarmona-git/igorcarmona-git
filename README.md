@@ -42,12 +42,6 @@
 
 ---
 
-## 📈 **GitHub Activity**
-
-[![Igor's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=igorcarmona-git&bg_color=A9A9A9&color=000000&line=000000&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🌐 **Connect with Me**
 
 <div align="center"> 
