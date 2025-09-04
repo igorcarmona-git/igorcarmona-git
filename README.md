@@ -5,9 +5,9 @@
 
 # 👋 Hey there, I'm **Igor Carmona**!
 
-- 🎓 **System Analysis and Development** student at **UNIPAR - CIANORTE** (2022–2025)  
+- 🎓 **Graduated in Systems Analysis and Development** — **UNIPAR · Cianorte** (2022–2025)
 - 👨‍💻 **FullStack Node.js Developer** – modern web apps with Next.js, TypeScript (t3 stack), tRPC, Prisma  
-- 🧑‍🏫 **Algorithms Monitor** at UNIPAR  
+- 🧑‍🏫 **Former Algorithms Monitor** at UNIPAR  
 - 🏢 **Current**: Placefy Software (Remote)  
 - 🇧🇷 25-year-old from **Brazil**
   
@@ -54,7 +54,7 @@
 
 ## 📚 **Education & Certifications**
 
-- **System Analysis and Development (2022–2025)** – UNIPAR, Cianorte/PR  
+- **Graduated in Systems Analysis and Development — UNIPAR, Cianorte/PR (2022–2025)**  
 - **Courses:**  
   - Advanced Programming Techniques (UNIPAR)  
   - JavaScript/TypeScript & Python Full Course (Udemy)  
