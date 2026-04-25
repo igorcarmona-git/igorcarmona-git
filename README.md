@@ -5,11 +5,11 @@
 
 # 👋 Hey there, I'm **Igor Carmona**!
 
-- 🎓 **Graduated in Systems Analysis and Development** — **UNIPAR · Cianorte** (2022–2025)
+- 🎓 **Graduated in Systems Analysis and Development** — **UNIPAR · Cianorte/PR** (2022–2025)
+- 📱 **Currently pursuing a Postgraduate Specialization in Mobile Development** — **Federal University of Technology – Paraná · Pato Branco/PR**
 - 👨‍💻 **FullStack Node.js Developer** – modern web apps with Next.js, TypeScript (t3 stack), tRPC, Prisma  
 - 🧑‍🏫 **Former Algorithms Monitor** at UNIPAR  
 - 🏢 **Current**: Placefy Software (Remote)  
-- 🇧🇷 25-year-old from **Brazil**
   
 - 📬 **Get in touch:**  
   - 💼 **LinkedIn:** [linkedin.com/in/igorcarmonawork](https://www.linkedin.com/in/igorcarmonawork/)  
@@ -21,7 +21,7 @@
 
 ## 🛠️ **Technical Skills**
 
-- **Languages:** TypeScript/JavaScript | Python | SQL  
+- **Languages:** TypeScript/JavaScript | Python | SQL | React
 - **Frameworks/Libraries:** Next.js | React | tRPC | Prisma | NextAuth | React Hook Form | Shadcn UI | Zod | Regex | bcrypt | multer | i18n | Tailwind CSS  
 - **Tools:** ESLint | Commit Lint | Husky | Prettier | Git | WebScraping  
 - **Methodologies:** RESTful APIs | SSR | SSG | ISR | Scrum | Kanban | Git CI/CD  
@@ -54,6 +54,7 @@
 
 ## 📚 **Education & Certifications**
 
+- **Postgraduate Specialization in Mobile Development — Federal University of Technology – Paraná, Pato Branco/PR**
 - **Graduated in Systems Analysis and Development — UNIPAR, Cianorte/PR (2022–2025)**  
 - **Courses:**  
   - Advanced Programming Techniques (UNIPAR)  
