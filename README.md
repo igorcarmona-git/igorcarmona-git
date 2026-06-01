@@ -3,67 +3,134 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 </p>
 
-# 👋 Hey there, I'm **Igor Carmona**!
+# 👋 Hey there, I'm **Igor Carmona**
 
-- 🎓 **Graduated in Systems Analysis and Development** — **UNIPAR · Cianorte/PR** (2022–2025)
-- 📱 **Currently pursuing a Postgraduate Specialization in Mobile Development** — **Federal University of Technology – Paraná · Pato Branco/PR**
-- 👨‍💻 **FullStack Node.js Developer** – modern web apps with Next.js, TypeScript (t3 stack), tRPC, Prisma  
-- 🧑‍🏫 **Former Algorithms Monitor** at UNIPAR  
-- 🏢 **Current**: Placefy Software (Remote)  
-  
-- 📬 **Get in touch:**  
-  - 💼 **LinkedIn:** [linkedin.com/in/igorcarmonawork](https://www.linkedin.com/in/igorcarmonawork/)  
+I'm a **Full-Stack Node.js Developer** focused on building modern, scalable, and maintainable web applications using **Next.js, TypeScript, tRPC, Prisma, and the T3 Stack**.
+
+I have a background in **Systems Analysis and Development**, experience with web development, infrastructure, technical support, and a growing focus on **mobile development**.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Degree in Systems Analysis and Development** — **UNIPAR · Cianorte/PR**
+- 📱 **Postgraduate Specialization in Mobile Development** — **Federal University of Technology – Paraná · Pato Branco/PR**
+- 💻 **Full-Stack Node.js Developer** working with modern web applications
+- 🧑‍🏫 **Former Algorithms Teaching Assistant** at UNIPAR
+- 🏢 **Currently working at:**
+  - **Placefy Software (FullStack Developer Node)** — Remote
+  - **Space Software (Front-End Developer Node)** — On-site
+
+---
+
+## 📬 Get in Touch
+
+- 💼 **LinkedIn:** [linkedin.com/in/igorcarmonawork](https://www.linkedin.com/in/igorcarmonawork/)
+- 📧 **Gmail:** [igorcarmonawork@gmail.com](mailto:igorcarmonawork@gmail.com)
+
+---
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=20&center=true&vCenter=true&width=1000&lines=%22A+person+who+never+made+a+mistake+never+tried+anything+new.%22+-+Albert+Einstein;%22You+only+win+tomorrow+if+you+don't+give+up+today.%22;%22Persistence+is+the+path+to+success.%22+-+Charlie+Chaplin;%22You+are+your+only+limit.%22;%22Start+where+you+are.+Use+what+you+have.+Do+what+you+can.%22+-+Arthur+Ashe;%22The+energy+you+spread+is+the+same+you+receive.%22;%22Be+who+you+want+to+have+around.%22)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 
-- **Languages:** TypeScript/JavaScript | Python | SQL | React
-- **Frameworks/Libraries:** Next.js | React | tRPC | Prisma | NextAuth | React Hook Form | Shadcn UI | Zod | Regex | bcrypt | multer | i18n | Tailwind CSS  
-- **Tools:** ESLint | Commit Lint | Husky | Prettier | Git | WebScraping  
-- **Methodologies:** RESTful APIs | SSR | SSG | ISR | Scrum | Kanban | Git CI/CD  
-- **Infrastructure:** Windows/Linux Server | Networks | VLANs | Switches | WIFI | Backup | CFTV/IP | Firewall (PfSense) | Active Directory | PrintServer  
+### Languages
+
+- TypeScript/JavaScript
+- Python
+- SQL
+- Kotlin
+
+### Front-End
+
+- Next.js
+- React
+- Tailwind CSS
+- shadcn/ui | MUI
+- React Hook Form | Zod
+
+### Back-End
+
+- Node.js
+- tRPC
+- Prisma
+- NextAuth.js
+- RESTful APIs
+- bcrypt
+- Internationalization — i18n
+
+### Tools & Workflow
+
+- Git
+- ESLint
+- Commitlint
+- Husky
+- Prettier
+- CI/CD
+- Web Scraping
+
+### Infrastructure & Support
+
+- Windows Server
+- Linux Server
+- Networks
+- VLANs
+- Switches
+- Wi-Fi
+- Backup
+- CCTV/IP
+- Firewall — pfSense
+- Active Directory
+- Print Server
+
+### Methodologies
+
+- Scrum
+- Kanban
+- Clean Code
+- Scalable architecture
+- Maintainable software patterns
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
-- **[Painel de Atendimento Hospitalar](https://github.com/igorcarmona-git/painel-chamada-fundhospar):**  
-  Digital panel for medical offices, organizing and improving patient flow.
-- **[Sistema de Auditoria de Impressão](https://github.com/igorcarmona-git/CSVtoDB_PrinterAudition):**  
-  Automated print auditing system for detailed control and reporting, reducing waste and costs.
-- **[Automação de Exclusão de Arquivos](https://github.com/igorcarmona-git/telelaudos_deleteImages_automation):**  
-  Selective and safe file deletion automation for servers with limited capacity.
-- **[Gestão de Academia - TCC](https://thaiboxe.jeicode.com.br/):**  
-  Full-featured web platform for martial arts academy management, focused on usability and scalability.
+### [Painel de Atendimento Hospitalar](https://github.com/igorcarmona-git/painel-chamada-fundhospar)
 
+A digital panel for medical offices, designed to organize patient calls and improve service flow in healthcare environments.
+
+### [Sistema de Auditoria de Impressão](https://github.com/igorcarmona-git/CSVtoDB_PrinterAudition)
+
+An automated print auditing system focused on detailed reporting, usage control, waste reduction, and cost optimization.
+
+### [Automação de Exclusão de Arquivos](https://github.com/igorcarmona-git/telelaudos_deleteImages_automation)
+
+A safe and selective file deletion automation tool for servers with limited storage capacity.
 ---
 
-## 💻 **Operating Systems**
+## 💻 Operating Systems
 
 <div>
   <img src="https://img.shields.io/badge/Ubuntu-A9A9A9?style=for-the-badge&logo=ubuntu&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-A9A9A9?style=for-the-badge&logo=kali-linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-A9A9A9?style=for-the-badge&logo=windows&logoColor=black"/>
 </div>
 
 ---
 
-## 📚 **Education & Certifications**
+## 📚 Education & Certifications
 
-- **Postgraduate Specialization in Mobile Development — Federal University of Technology – Paraná, Pato Branco/PR**
-- **Graduated in Systems Analysis and Development — UNIPAR, Cianorte/PR (2022–2025)**  
-- **Courses:**  
-  - Advanced Programming Techniques (UNIPAR)  
-  - JavaScript/TypeScript & Python Full Course (Udemy)  
-  - Linux Fundamentals (UNIPAR)  
+- **Postgraduate Specialization in Mobile Development** — Federal University of Technology – Paraná, Pato Branco/PR
+- **Degree in Systems Analysis and Development** — UNIPAR, Cianorte/PR
+- **Advanced Programming Techniques** — UNIPAR
+- **Linux Fundamentals** — UNIPAR
+- **JavaScript, TypeScript & Python Full Course** — Udemy
 
 ---
 
-## 🌐 **Connect with Me**
+## 🌐 Connect with Me
 
 <div align="center"> 
   <a href="https://instagram.com/carmonadj_" target="_blank">
