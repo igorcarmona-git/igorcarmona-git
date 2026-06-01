@@ -69,18 +69,15 @@ I have a background in **Systems Analysis and Development**, experience with web
 - Commitlint
 - Husky
 - Prettier
-- CI/CD
 - Web Scraping
 
 ### Infrastructure & Support
 
 - Windows Server
 - Linux Server
-- Networks
+- Networks Management
 - VLANs
 - Switches
-- Wi-Fi
-- Backup
 - CCTV/IP
 - Firewall — pfSense
 - Active Directory
@@ -135,9 +132,6 @@ A safe and selective file deletion automation tool for servers with limited stor
 <div align="center"> 
   <a href="https://instagram.com/carmonadj_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:igorcarmona1@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   <a href="mailto:igorcarmonawork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
